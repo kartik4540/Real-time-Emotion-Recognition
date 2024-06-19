@@ -5,7 +5,7 @@ from tensorflow.keras.preprocessing import image
 import matplotlib.pyplot as plt
 
 # Load the trained model
-model_path = 'C:/Users/91989/Desktop/assz/face_model.h5'  # Update with your actual model path
+model_path = 'C:/Users/Path/of/model'  # Update with your actual model path (download model for recognition.zip and extract it)
 
 try:
     model_best = load_model(model_path)
