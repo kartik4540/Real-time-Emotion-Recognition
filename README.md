@@ -1,6 +1,8 @@
 # Real-time-Emotion-Recognition
 This project implements real-time facial emotion recognition using deep learning techniques, combining OpenCV for face detection and TensorFlow/Keras for emotion classification. The system captures live video from a webcam, detects faces using a pre-trained Haar Cascade classifier, and predicts emotions such as Angry, Disgusted, Fear, Happy, Sad, Surprise, or Neutral.
 
+(Download raw file of model for recognition.zip  and update the path file in code)
+
 Dependencies:
 Python 3.x
 OpenCV (opencv-python)
