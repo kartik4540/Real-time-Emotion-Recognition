@@ -19,7 +19,6 @@ Application:
 This technology finds applications in human-computer interaction, sentiment analysis, and emotion-driven interfaces. It provides real-time feedback on emotional states, enhancing user experience in interactive systems and contributing to understanding user sentiment in various applications.
 
 Usage:
-
 Ensure your webcam is connected and accessible.
 Run emotion_detection.py to start the real-time emotion recognition system.
 Press 'q' to quit the application.
